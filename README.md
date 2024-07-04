@@ -1,4 +1,4 @@
-## Mod ZZZ
+## Novo Cheetos Para ZZZ
 
 **Recursos:**
 
@@ -21,10 +21,14 @@
 
 - Não sabemos o risco de ban ainda, mas como qualquer outro jogo da HoYo provavelmente não terá nenhum problemas. Já foi testado por algumas pessoas, ninguem teve problema. Mas tome cuidado
 
-**Download:** 
+**Download:**
+- [Github Link](https://github.com/ryuzeen/ZZZ-Mod) 
+- [Link Direto](https://github.com/ryuzeen/ZZZ-Mod/blob/main/Zzz-Cheat.zip)
 
 ### Como injetar:
 
 - Execute o launcher.exe 
 - Selecione o .exe do ZZZ (Fica neste caminho > `C:\Program Files\HoYoPlay\games\ZenlessZoneZero Game` geralmente, se não estiver ai, procure)
 - Insert para abrir o menu
+
+<@&1255912104783773909>
