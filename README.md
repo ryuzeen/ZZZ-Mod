@@ -1,4 +1,4 @@
-## Novo Cheetos Para ZZZ
+## Mod ZZZ
 
 **Recursos:**
 
@@ -21,7 +21,10 @@
 
 - Não sabemos o risco de ban ainda, mas como qualquer outro jogo da HoYo provavelmente não terá nenhum problemas. Já foi testado por algumas pessoas, ninguem teve problema. Mas tome cuidado
 
+**Download:** 
 
-**Creditos:**
-- Z4ee (Dev)
-- Ryuzeen (BR)
+### Como injetar:
+
+- Execute o launcher.exe 
+- Selecione o .exe do ZZZ (Fica neste caminho > `C:\Program Files\HoYoPlay\games\ZenlessZoneZero Game` geralmente, se não estiver ai, procure)
+- Insert para abrir o menu
