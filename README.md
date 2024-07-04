@@ -31,4 +31,4 @@
 - Selecione o .exe do ZZZ (Fica neste caminho > `C:\Program Files\HoYoPlay\games\ZenlessZoneZero Game` geralmente, se não estiver ai, procure)
 - Insert para abrir o menu
 
-<@&1255912104783773909>
+
